@@ -1,3 +1,3 @@
- pandas
- plotly_express
- streamlit
+ pandas 2.2.1
+ plotly_express 0.4.1
+ streamlit 1.32.2
